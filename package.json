@@ -1,0 +1,25 @@
+{
+  "name": "webrtc-kurento",
+  "version": "1.0.0",
+  "description": "WebRTC using Kurento Media Server - This is a nodejs (v5.11.1) app for one-on-one video calling, with recording capabilities ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mmuriel/webrtc-kurento.git"
+  },
+  "keywords": [
+    "kurento",
+    "webrtc",
+    "video",
+    "calling"
+  ],
+  "author": "@maomuriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmuriel/webrtc-kurento/issues"
+  },
+  "homepage": "https://github.com/mmuriel/webrtc-kurento#readme"
+}
